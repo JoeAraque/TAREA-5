@@ -10,6 +10,16 @@
 ## 1. Objetivos
 ### Objetivo general
 ### Objetivos especificos
+* Resolver ecuaciones simultáneas mediante sustitución algebraica
+* Utilizar el método de la corriente en ramas para determinar cantidades desconocidas en un circuito
+* Identificar lazos y nodos en un circuito
+* Aplicar la ley de la corriente de Kirchhoff en cada nodo
+* Definir el término flujo magnético
+* Explicar los principios del electromagnetismo
+* Describir un electroimán básico
+* Explicar en qué consiste un disco magnético y la operación de lectura y escritura en cinta
+* Analizar el principio de inducción electromagnética
+* 
 ## 2. Marco teorico
 
 
@@ -58,7 +68,7 @@
 
 **15. ¿Cómo se puede cambiar la densidad de flujo en la figura 10-44 sin alterar las características físicas del núcleo?**
 
-* Lo que podemos hacer es cambiar la corriente para que la densidad aumente o disminuya según esta corriente
+* Lo que podemos hacer es cambiar la corriente para que la densidad de flujo aumente o disminuya según esta corriente
 
 ![eje15](https://user-images.githubusercontent.com/93224166/148868921-a1a107e6-877b-490c-9267-eeda088d045e.png)
 
@@ -88,4 +98,12 @@
 
 ## 4. Video 
 ## 5. Conclusiones
+* Las ecuaciones simultáneas podemos resolverlas por sustitución, por determinantes, o con una calculadora graficadora.
+* El método de la corriente en ramas está basado en las leyes del voltaje y de la corriente de Kirchhoff. 
+* El método de la corriente en lazos está basado en la ley del voltaje de Kirchhoff. 
+* El electromagnetismo se producido por una corriente que recorre un conductor. 
+* Existe un campo electro-magnético sólo cuando hay corriente. 
+* Existe un campo magnético independientemente de la corriente
+* Un incremento de la corriente aumenta la densidad de flujo. 
+* Retentividad es la capacidad de un material de permanecer magnetizado después de que la fuerza magnetizante deja de actuar
 ## 6. Bibliografia
