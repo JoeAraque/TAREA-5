@@ -9,6 +9,8 @@
 ### TEMA: Analisis de ramas, lazos y nodos. Magnetismo y Electromagnetismo 
 ## 1. Objetivos
 ### Objetivo general
+* Identificar los nodos, lazos, ramas en un circuito para encontrar las incognitas, medieante la aplicacion de leyes de Kirchhoff y ley de Ohm.
+* Comprender las difiniciones de magnetismo y electromagnetismo mediantes las leyes y aplicaciones que inplican para que podamos aplicar y calcular el campo magnetico, ect.
 ### Objetivos especificos
 * Resolver ecuaciones simultáneas mediante sustitución algebraica
 * Utilizar el método de la corriente en ramas para determinar cantidades desconocidas en un circuito
@@ -19,7 +21,6 @@
 * Describir un electroimán básico
 * Explicar en qué consiste un disco magnético y la operación de lectura y escritura en cinta
 * Analizar el principio de inducción electromagnética
-* 
 ## 2. Marco teorico
 
 
@@ -107,3 +108,6 @@
 * Un incremento de la corriente aumenta la densidad de flujo. 
 * Retentividad es la capacidad de un material de permanecer magnetizado después de que la fuerza magnetizante deja de actuar
 ## 6. Bibliografia
+FLOYD, THOMAS L.
+Principios de circuitos eléctricos. Octava edición
+PEARSON EDUCACIÓN, México, 2007
