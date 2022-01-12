@@ -39,6 +39,49 @@
 
 
 
+
+![1](https://user-images.githubusercontent.com/93928146/148896659-fc20119f-9828-468a-8513-aeed7558f1d1.PNG)
+![3](https://user-images.githubusercontent.com/93928146/148896664-f4d18166-71cc-40e0-96bd-6d17c9824f79.PNG)
+![5](https://user-images.githubusercontent.com/93928146/148896675-29234bdb-e2bc-43af-8ffb-dfc442f5888a.PNG)
+![7](https://user-images.githubusercontent.com/93928146/148896682-8d97e8c5-f194-46f1-bb7c-fd7057e76dc9.PNG)
+
+
+
+![7 1](https://user-images.githubusercontent.com/93928146/148896856-d2864cf6-4c48-4bb0-90b7-b41f43d506d4.PNG)
+
+
+![9](https://user-images.githubusercontent.com/93928146/148896877-b4627ba3-6e19-48d1-9c3c-3e739df421cc.PNG)
+
+![11](https://user-images.githubusercontent.com/93928146/148896888-cfe64c56-3f0b-49a8-a592-281f62c04233.PNG)
+
+
+![13](https://user-images.githubusercontent.com/93928146/148896897-c596374d-1fc0-420b-82a1-7213b258f6ca.PNG)
+![13 1](https://user-images.githubusercontent.com/93928146/148896906-e6172439-f148-455c-a323-3f3367eabe34.PNG)
+
+
+![15](https://user-images.githubusercontent.com/93928146/148896922-882914fb-bec0-4257-b0e9-c5d6a9ab5913.PNG)
+
+
+![17](https://user-images.githubusercontent.com/93928146/148896935-a46797ae-6705-4816-8c15-500fbf9be5f4.PNG)
+
+![19](https://user-images.githubusercontent.com/93928146/148896949-6596aedd-6da3-46bd-87ef-312d74ea973e.PNG)
+
+![21](https://user-images.githubusercontent.com/93928146/148896954-c4206295-1dad-403c-b4dc-6577f68a6e64.PNG)
+
+![23](https://user-images.githubusercontent.com/93928146/148897001-e0e06020-6107-4589-8378-40e887509d5c.PNG)
+
+
+![25](https://user-images.githubusercontent.com/93928146/148897011-34ceb6ec-21dc-4528-a631-68ca12739a7a.PNG)
+
+
+
+
+
+
+
+
+
+
 **5. Un imán permanente muy fuerte tiene un campo magnético de 100,000 mT. Exprese esta densidad de flujo en gauss.** 
 
 ![eje5](https://user-images.githubusercontent.com/93224166/148868925-92069c78-98e6-4f46-b056-d15223cac8f8.png)
