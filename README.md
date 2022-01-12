@@ -86,11 +86,18 @@
 27. ¿Cuáles son los valores de corriente de rama en la figura 9-32? En cada rama, muestre la dirección real
 de la corriente.
 
+
+![27-9](https://user-images.githubusercontent.com/93951775/149216026-9b73ed68-113a-4fa8-850e-29d1f5511936.JPG)
+
 29. Use el análisis de nodos para determinar el voltaje en los puntos A y B con respecto a tierra en la figura
 9-33.
 
+![29-9](https://user-images.githubusercontent.com/93951775/149216039-190daf5e-122a-4b03-b9ec-b00a644bbdb8.JPG)
+
 31. Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y
 los voltajes en cada nodo desconocido en la figura 9-35.
+
+![31-9](https://user-images.githubusercontent.com/93951775/149216069-abfe305b-4a43-4f1d-939c-8c2fd03eef32.JPG)
 
 1. El área de sección transversal de un campo magnético se incrementa, pero el flujo no cambia. ¿La densidad
 de flujo aumenta o disminuye?
