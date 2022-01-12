@@ -83,6 +83,22 @@
 **25.Escriba las ecuaciones de lazo en la forma estándar para el circuito puente T mostrado en la figura 9-31.**
 ![25](https://user-images.githubusercontent.com/93928146/148897011-34ceb6ec-21dc-4528-a631-68ca12739a7a.PNG)
 
+27. ¿Cuáles son los valores de corriente de rama en la figura 9-32? En cada rama, muestre la dirección real
+de la corriente.
+
+29. Use el análisis de nodos para determinar el voltaje en los puntos A y B con respecto a tierra en la figura
+9-33.
+
+31. Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y
+los voltajes en cada nodo desconocido en la figura 9-35.
+
+1. El área de sección transversal de un campo magnético se incrementa, pero el flujo no cambia. ¿La densidad
+de flujo aumenta o disminuye?
+
+3. ¿Cuál es el flujo en un material magnético cuando la densidad de flujo es de 2500 _ 10_6 T y el área
+de sección transversal mide 150 cm2
+
+
 
 
 
