@@ -23,6 +23,9 @@
 * Analizar el principio de inducción electromagnética
 ## 2. Marco teorico
 
+![RESUMEN1](https://user-images.githubusercontent.com/93928146/148897037-4abd049b-a363-44e9-baae-c816dd5032ba.PNG)
+![RESUMEN2](https://user-images.githubusercontent.com/93928146/148897039-1e10877d-d653-46f6-bdaf-ffd727f103c9.PNG)
+![resumen 3](https://user-images.githubusercontent.com/93928146/148897035-3977f6df-0de0-4caf-b792-636c2f884a0f.PNG)
 
 
 ![map1](https://user-images.githubusercontent.com/93224166/148868812-78357bfa-36f7-4632-acdc-65d4c0a6367a.png)
