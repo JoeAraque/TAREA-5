@@ -43,19 +43,25 @@
 ## 3. Explicacion y Resolucion de ejercicios o Problemas
 
 **1.Con el método de sustitución, resulta el siguiente conjunto de ecuaciones para IR1 e IR2**
+
 ![1](https://user-images.githubusercontent.com/93928146/148896659-fc20119f-9828-468a-8513-aeed7558f1d1.PNG)
 
 **3.Utilizando determinantes, resuelva el siguiente conjunto de ecuaciones para ambas corrientes:**
+
 ![3](https://user-images.githubusercontent.com/93928146/148896664-f4d18166-71cc-40e0-96bd-6d17c9824f79.PNG)
 
 **5.Evalúe cada uno de los determinantes:**
+
 ![5](https://user-images.githubusercontent.com/93928146/148896675-29234bdb-e2bc-43af-8ffb-dfc442f5888a.PNG)
 
 **7.Resuelva para I1, I2, I3 en el siguiente conjunto de ecuaciones con determinantes:**
+
 ![7](https://user-images.githubusercontent.com/93928146/148896682-8d97e8c5-f194-46f1-bb7c-fd7057e76dc9.PNG)
+
 ![7 1](https://user-images.githubusercontent.com/93928146/148896856-d2864cf6-4c48-4bb0-90b7-b41f43d506d4.PNG)
 
 **9. Resuelva las dos simultáneas del problema 1 con su calculadora.**
+
 ![9](https://user-images.githubusercontent.com/93928146/148896877-b4627ba3-6e19-48d1-9c3c-3e739df421cc.PNG)
 
 **11.Escriba la fórmula de la corriente de Kirchhoff para la proyección de corriente mostrada en el nodo A en la figura 9-26.**
@@ -67,24 +73,31 @@
 **13.Determine la caída de voltaje entre los extremos de cada resistencia mostrada en la figura 9-26 e indique la polaridad real.**
 
 ![13](https://user-images.githubusercontent.com/93928146/148896897-c596374d-1fc0-420b-82a1-7213b258f6ca.PNG)
+
 ![13 1](https://user-images.githubusercontent.com/93928146/148896906-e6172439-f148-455c-a323-3f3367eabe34.PNG)
 
 **15.En la figura 9-27, determine el voltaje entre los terminales de la fuente de corriente (puntos A y B).**
+
 ![15](https://user-images.githubusercontent.com/93928146/148896922-882914fb-bec0-4257-b0e9-c5d6a9ab5913.PNG)
 
 **17.Con el método de la corriente en lazos, determine las corrientes en los lazos que aparecen en la figura 9-28.**
+
 ![17](https://user-images.githubusercontent.com/93928146/148896935-a46797ae-6705-4816-8c15-500fbf9be5f4.PNG)
 
 **19.Determine los voltajes y sus polaridades apropiadas en cada uno de los resistores mostrados en la figura 9-28.**
+
 ![19](https://user-images.githubusercontent.com/93928146/148896949-6596aedd-6da3-46bd-87ef-312d74ea973e.PNG)
 
 **21. Resuelva para las corrientes de lazo en la figura 9-29 con su calculadora.**
+
 ![21](https://user-images.githubusercontent.com/93928146/148896954-c4206295-1dad-403c-b4dc-6577f68a6e64.PNG)
 
 **23.Determine el voltaje entre las terminales del puente abierto, A y B, en la figura 9-30.**
+
 ![23](https://user-images.githubusercontent.com/93928146/148897001-e0e06020-6107-4589-8378-40e887509d5c.PNG)
 
 **25.Escriba las ecuaciones de lazo en la forma estándar para el circuito puente T mostrado en la figura 9-31.**
+
 ![25](https://user-images.githubusercontent.com/93928146/148897011-34ceb6ec-21dc-4528-a631-68ca12739a7a.PNG)
 
 **27. ¿Cuáles son los valores de corriente de rama en la figura 9-32? En cada rama, muestre la dirección real
