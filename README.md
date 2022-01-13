@@ -27,6 +27,7 @@
 ![RESUMEN2](https://user-images.githubusercontent.com/93928146/148897039-1e10877d-d653-46f6-bdaf-ffd727f103c9.PNG)
 ![resumen 3](https://user-images.githubusercontent.com/93928146/148897035-3977f6df-0de0-4caf-b792-636c2f884a0f.PNG)
 
+![9-4](https://user-images.githubusercontent.com/93951775/149348503-37281f01-1247-44b2-a2f5-65e8ec1483ac.jpeg)
 
 ![map1](https://user-images.githubusercontent.com/93224166/148868812-78357bfa-36f7-4632-acdc-65d4c0a6367a.png)
 
