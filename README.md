@@ -47,6 +47,7 @@
 
 **3.Utilizando determinantes, resuelva el siguiente conjunto de ecuaciones para ambas corrientes:**
 ![3](https://user-images.githubusercontent.com/93928146/148896664-f4d18166-71cc-40e0-96bd-6d17c9824f79.PNG)
+
 **5.Evalúe cada uno de los determinantes:**
 ![5](https://user-images.githubusercontent.com/93928146/148896675-29234bdb-e2bc-43af-8ffb-dfc442f5888a.PNG)
 
@@ -58,10 +59,13 @@
 ![9](https://user-images.githubusercontent.com/93928146/148896877-b4627ba3-6e19-48d1-9c3c-3e739df421cc.PNG)
 
 **11.Escriba la fórmula de la corriente de Kirchhoff para la proyección de corriente mostrada en el nodo A en la figura 9-26.**
+
+
 ![11](https://user-images.githubusercontent.com/93928146/148896888-cfe64c56-3f0b-49a8-a592-281f62c04233.PNG)
 
 
 **13.Determine la caída de voltaje entre los extremos de cada resistencia mostrada en la figura 9-26 e indique la polaridad real.**
+
 ![13](https://user-images.githubusercontent.com/93928146/148896897-c596374d-1fc0-420b-82a1-7213b258f6ca.PNG)
 ![13 1](https://user-images.githubusercontent.com/93928146/148896906-e6172439-f148-455c-a323-3f3367eabe34.PNG)
 
@@ -83,19 +87,19 @@
 **25.Escriba las ecuaciones de lazo en la forma estándar para el circuito puente T mostrado en la figura 9-31.**
 ![25](https://user-images.githubusercontent.com/93928146/148897011-34ceb6ec-21dc-4528-a631-68ca12739a7a.PNG)
 
-27. ¿Cuáles son los valores de corriente de rama en la figura 9-32? En cada rama, muestre la dirección real
-de la corriente.
+**27. ¿Cuáles son los valores de corriente de rama en la figura 9-32? En cada rama, muestre la dirección real
+de la corriente.**
 
 
 ![27-9](https://user-images.githubusercontent.com/93951775/149216026-9b73ed68-113a-4fa8-850e-29d1f5511936.JPG)
 
-29. Use el análisis de nodos para determinar el voltaje en los puntos A y B con respecto a tierra en la figura
-9-33.
+**29. Use el análisis de nodos para determinar el voltaje en los puntos A y B con respecto a tierra en la figura
+9-33.**
 
 ![29-9](https://user-images.githubusercontent.com/93951775/149216039-190daf5e-122a-4b03-b9ec-b00a644bbdb8.JPG)
 
-31. Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y
-los voltajes en cada nodo desconocido en la figura 9-35.
+**31. Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y
+los voltajes en cada nodo desconocido en la figura 9-35.**
 
 ![31-9](https://user-images.githubusercontent.com/93951775/149216069-abfe305b-4a43-4f1d-939c-8c2fd03eef32.JPG)
 
