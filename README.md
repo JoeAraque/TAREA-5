@@ -115,6 +115,9 @@ de la corriente.**
 
 ![299](https://user-images.githubusercontent.com/93951775/149337151-4356b530-70e4-4c27-9517-34a4a079baf9.JPG)
 
+![2999](https://user-images.githubusercontent.com/93951775/149337746-6ac817b4-4523-48ee-8bca-70c890099dcf.JPG)
+
+
 
 **31. Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y
 los voltajes en cada nodo desconocido en la figura 9-35.**
