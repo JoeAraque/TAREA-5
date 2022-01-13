@@ -129,8 +129,13 @@ los voltajes en cada nodo desconocido en la figura 9-35.**
 1. El área de sección transversal de un campo magnético se incrementa, pero el flujo no cambia. ¿La densidad
 de flujo aumenta o disminuye?
 
+la densidad de flujo disminuye
+
 3. ¿Cuál es el flujo en un material magnético cuando la densidad de flujo es de 2500 _ 10_6 T y el área
 de sección transversal mide 150 cm2
+
+![310](https://user-images.githubusercontent.com/93951775/149345248-2c7e3828-b152-4e5c-ba00-bfa1d4a1ac2c.JPG)
+
 
 
 
