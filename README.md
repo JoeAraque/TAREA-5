@@ -29,6 +29,9 @@
 
 ![9-4](https://user-images.githubusercontent.com/93951775/149348503-37281f01-1247-44b2-a2f5-65e8ec1483ac.jpeg)
 
+![10-1](https://user-images.githubusercontent.com/93951775/149350071-3be39298-e650-4d14-aa8a-3ecb4dc0a71d.jpeg)
+
+
 ![map1](https://user-images.githubusercontent.com/93224166/148868812-78357bfa-36f7-4632-acdc-65d4c0a6367a.png)
 
 ![MAP2](https://user-images.githubusercontent.com/93224166/148868814-85f75e92-7475-43f8-875d-6f400125d495.png)
